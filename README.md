@@ -65,7 +65,7 @@ I am a master’s student at **Lingnan University (AIBA program, expected 2026)*
 **Time:** 2024
 
 - **Problem:** Needed a customizable test platform for learning flight controller tuning and autonomous flight modes.  
-- **Data:** F450 frame, 2212 motors, 30A ESCs, Pixhawk flight controller, 4S LiPo battery.  
+- **Source:** F450 frame, 2212 motors, 30A ESCs, Pixhawk flight controller, 4S LiPo battery.  
 - **Approach:**  
   1. Soldered power distribution board, ESCs, and motors.  
   2. Assembled frame and mounted flight controller.  
@@ -74,7 +74,6 @@ I am a master’s student at **Lingnan University (AIBA program, expected 2026)*
   5. Performed test flights and iterative tuning.  
 - **Outcome:** Successfully built a stable quadcopter with 12-minute hover time; capable of manual and loiter modes.  
 - **Contribution:** 100% individual work — parts selection, assembly, wiring, configuration, and flight testing.  
-- *(Optional link: [GitHub / Report link])*
 
 ---
 
@@ -82,16 +81,15 @@ I am a master’s student at **Lingnan University (AIBA program, expected 2026)*
 
 **Time:** 2019 (GDUT)
 
-- **Problem:** Create a high-resolution 3D model and orthomosaic of a 1 km² university campus area for mapping and planning purposes.  
-- **Data:** 450 aerial images (JPEG) captured by DJI Phantom 4; ground control points collected with GPS.  
+- **Problem:** Create a high-resolution 3D model and orthomosaic of a 1 km² university campus area for mapping and planning purposes.   
 - **Approach:**  
-  1. Designed automated flight grid with 70% overlap using Pix4Dcapture.  
+  1. Designed automated flight grid with 70% overlap .  
   2. Executed the mission and monitored battery/weather.  
   3. Processed images with photogrammetry software (structure-from-motion).  
   4. Generated dense point cloud, mesh, and orthophoto.  
 - **Outcome:** Produced a georeferenced orthomosaic (5 cm/pixel) and a 3D model of the campus; used for a departmental GIS project.  
 - **Contribution:** Operated the drone during the flight mission; assisted with ground control point measurement.  
-- *(Optional link: [Google Drive / Report link])*
+- 
 
 ---
 
