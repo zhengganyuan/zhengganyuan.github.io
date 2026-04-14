@@ -89,7 +89,6 @@ I am a master’s student at **Lingnan University (AIBA program, expected 2026)*
   4. Generated dense point cloud, mesh, and orthophoto.  
 - **Outcome:** Produced a georeferenced orthomosaic (5 cm/pixel) and a 3D model of the campus; used for a departmental GIS project.  
 - **Contribution:** Operated the drone during the flight mission; assisted with ground control point measurement.  
-- 
 
 ---
 
